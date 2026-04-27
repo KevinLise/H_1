@@ -1,4 +1,4 @@
-# 🧠 Guía: Cómo construir cualquier Landing Page desde cero
+#  Guía: Cómo construir cualquier Landing Page desde cero
 ### Metodología aplicada en el proyecto Sashi & Kent
 
 ---
@@ -228,18 +228,18 @@ document.getElementById('btn-menu').addEventListener('click', () => {
 ## PASO 6 — CHECKLIST ANTES DE ENTREGAR
 
 ```
-✅ ¿Tiene DOCTYPE, charset, viewport?
-✅ ¿Usé <main> como contenedor?
-✅ ¿Cada sección temática usa <section>?
-✅ ¿Los elementos independientes usan <article>?
-✅ ¿Hay al menos una <ul> con <li> semántica?
-✅ ¿La tabla tiene <thead>, <tbody>, <th>, <td>?
-✅ ¿El CSS tiene variables :root?
-✅ ¿Usé Flexbox O Grid (no solo margin/padding)?
-✅ ¿Hay media queries para mobile (768px) y desktop (1024px)?
-✅ ¿El script.js está al final del <body>?
-✅ ¿Existe el README.md?
-✅ ¿Las imágenes están en la carpeta img/?
+ ¿Tiene DOCTYPE, charset, viewport?
+ ¿Usé <main> como contenedor?
+ ¿Cada sección temática usa <section>?
+ ¿Los elementos independientes usan <article>?
+ ¿Hay al menos una <ul> con <li> semántica?
+ ¿La tabla tiene <thead>, <tbody>, <th>, <td>?
+ ¿El CSS tiene variables :root?
+ ¿Usé Flexbox O Grid (no solo margin/padding)?
+ ¿Hay media queries para mobile (768px) y desktop (1024px)?
+ ¿El script.js está al final del <body>?
+ ¿Existe el README.md?
+ ¿Las imágenes están en la carpeta img/?
 ```
 
 ---
